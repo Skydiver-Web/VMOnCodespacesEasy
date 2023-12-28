@@ -1,7 +1,8 @@
 # How to make a Virtual Machine on your chromebook to unblock everything:
 
 1. Go to this link, scroll down until you see something that says Default Idle Timeout, and set it to 240 then save - https://github.com/settings/codespaces
-2. After Visit The Following URL and Create A Fork - https://github.com/Skydiver-Web/Desktop/fork
-3. Next Visit The Following URL, Select The Repository You Forked, For Machine Type pick 4 Core, and then Create Codespace - https://github.com/codespaces/new
-4. Wait for the content to load. You should be in the terminal tab. The rest of the steps are above the terminal tab. Follow all steps and enjoy.
+2. After Visit The Following URL and Create A Fork -
+3. https://github.com/Skydiver-Web/Desktop/fork
+4. Next Visit The Following URL, Select The Repository You Forked, For Machine Type pick 4 Core, and then Create Codespace - https://github.com/codespaces/new
+5. Wait for the content to load. You should be in the terminal tab. The rest of the steps are above the terminal tab. Follow all steps and enjoy.
    
